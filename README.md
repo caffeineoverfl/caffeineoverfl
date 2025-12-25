@@ -1,12 +1,12 @@
 # Hi, I’m Toni (Caffeine Overflow)
 
-I’m a bioinformatics enthusiast with a passion for genomics, transcriptomics, and computational biology. I enjoy turning complex biological data into meaningful insights and building tools that make research easier and more reproducible. When I’m not coding, you’ll probably find me experimenting with new analysis pipelines or exploring the latest in computational biology.
+I’m a bioinformatics enthusiast with a passion for genomics, transcriptomics, and computational biology. When I’m not coding, you’ll probably find me experimenting with new analysis pipelines or exploring the latest in computational biology.
 
 ---
 
 ## About Me
 - **Field:** Bioinformatics / Computational Biology  
-- **Languages & Tools:** Python, R, Bash, Java, JavaScript, Snakemake, Nextflow, Biopython, Bioconductor  
+- **Languages & Tools:** Python, R, Bash, Java, Snakemake, Nextflow, Biopython, Bioconductor  
 - **Interests:** NGS analysis, variant annotation, functional genomics, machine learning for biological data  
 
 ---
@@ -35,7 +35,5 @@ I’m planning to dive into more advanced bioinformatics work, including:
 
 ---
 
-## Let’s Connect
-- GitHub: [github.com/caffeineoverfl](https://github.com/caffeineoverfl)  
-- Email: your-email@example.com  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+## Let’s Connect 
+- Email: caffeineoverfl@gmail.com
