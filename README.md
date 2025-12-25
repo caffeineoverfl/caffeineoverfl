@@ -24,9 +24,9 @@ A web app I created to translate DNA sequences into mRNA and protein. I wanted a
 ## My Goals
 - Contribute to open-source bioinformatics projects.  
 - Build reproducible and scalable pipelines for research.  
-- Explore how AI and machine learning can help answer biological questions.  
+- Explore how genomic data science and machine learning can help answer biological questions.  
 
 ---
 
-## Let’s Connect 
+## If you like to collaborate reach out to me here:
 - Email: caffeineoverfl@gmail.com
